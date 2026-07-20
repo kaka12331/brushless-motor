@@ -34,6 +34,10 @@
 *.iex
 *.dbgconf
 
+# J-Link local
+JLinkLog.txt
+JLinkSettings.ini
+
 # eide template
 *.ept
 *.eide-template
